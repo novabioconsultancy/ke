@@ -492,7 +492,7 @@ function initExpertiseQuiz() {
             },
             {
                 name: 'Brenda Karwitha',
-                title: 'Co-founder',
+                title: 'COO & Co-founder',
                 expertise: 'MedTech Specialist',
                 image: 'Images/founder-brenda.jpg',
                 specialties: ['medtech', 'technical', 'regulatory', 'development'],
@@ -500,7 +500,7 @@ function initExpertiseQuiz() {
             },
             {
                 name: 'Ivan Onyunde',
-                title: 'Co-founder',
+                title: 'CSO & Co-founder',
                 expertise: 'Digital Health Expert',
                 image: 'Images/founder-ivan.jpg',
                 specialties: ['digital-health', 'technical', 'global', 'market-ready'],
